@@ -21,7 +21,7 @@ DATABASE_NAME = os.environ.get("DATABASE_NAME", "espdarename")
 
 
 # Other Variables Config
-START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg")
+START_PIC = os.environ.get("START_PIC", "https://jpcdn.it/img/small/469daf5c808c9fa434b286e9d90573bd.jpg")
 
 
 

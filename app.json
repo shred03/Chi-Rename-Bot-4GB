@@ -1,9 +1,9 @@
 {
     "name": "Renamer Bot 4GB",
     "description": "Telegram File Renamer Bot 4GB",
-    "logo": "https://graph.org/file/2c62c5c158d42b0dc8deb.jpg",
-    "keywords": ["Premium Rename Bot", "Renamer Bot 4GB", "Mongo DB"],    
-    "repository": "https://github.com/JishuDeveloper/Rename-Bot-4GB",
+    "logo": "https://jpcdn.it/img/small/469daf5c808c9fa434b286e9d90573bd.jpg",
+    "keywords": ["Premium Rename Bot", "Chi Renamer Bot 4GB", "Mongo DB"],    
+    "repository": "https://github.com/shred03/Chi-Rename-Bot-4GB",
     
     "env": {
         "API_ID": {
@@ -62,7 +62,7 @@
         
         "START_PIC": {
             "description": "Your Bot Start Command Pic, You Can Get It From @GenTelegraphBot",
-            "value": "https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg",
+            "value": "https://jpcdn.it/img/small/469daf5c808c9fa434b286e9d90573bd.jpg",
             "required": false
         }
     },

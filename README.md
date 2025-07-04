@@ -1,7 +1,7 @@
-<img src="https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg" alt="logo" target="/blank">
+<img src="https://jpcdn.it/img/de28ccc50e0f610242be309dbc67145f.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://t.me/filerenamexprobot" target="/blank">Rename Bot 4GB</a></>
+ <b><a href="https://t.me/@espada_rename_bot" target="/blank">Chi AutoRename Bot 4GB</a></>
 </h1>
 
 <p align="center">🩷 Thanks for Being Here 🩷</p>
@@ -101,20 +101,12 @@ restart - Use This Command To Cancel All Process And Restart The Bot [Admins Onl
 
 
 
-### ❤️ RESPECTING
-- [JishuDeveloper](https://github.com/JishuDeveloper)
-- [Madflix Official](https://github.com/jishusinha) 
-- [lntechnical](https://github.com/lntechnical2)
+
 
 ### 😍 BOTS CHANNEL
-- [Madflix Botz](https://t.me/Madflix_Bots)
-- [Jishu Botz](https://t.me/JishuBotz)
+- [Espada Org](https://t.me/espada_org)
+- [Espada Org](https://t.me/espada_org)
 
 ### 💕 CONTACT DEVELOPER
-- [Jishu Developer](https://t.me/JishuDeveloper)
-- [Madflix Official](https://t.me/MadflixOfficials)
-
-### ☕ BUY ME A COFFEE
-- [PayPal](https://paypal.me/jishudeveloper/2.50USD)
-- [PhonePe](https://graph.org/file/6822df5af3a2e80637172.jpg)
-- [UPI](https://graph.org/file/b831109be4acff5c966d2.jpg)
+- [𝗖𝗵𝗶𝗵𝗶𝗿𝗼 𝗔𝘀𝗵𝗶𝘀𝘂𝘁𝗮𝗻𝘁𝗼](https://t.me/@chihiro_assistant_bot)
+- [Espada Org](https://t.me/espada_org)

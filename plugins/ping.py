@@ -21,4 +21,4 @@ async def ping(_, message):
 # Don't Remove Credit 🥺
 # Telegram Channel @Madflix_Bots
 # Back-Up Channel @JishuBotz
-# Developer @JishuDeveloper & @MadflixOfficials
+# Developer @JishuDeveloper & @chihiro_assistant_bot

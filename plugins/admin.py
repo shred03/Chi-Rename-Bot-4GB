@@ -110,7 +110,7 @@ async def cp1(bot,update):
     usertype(int(user_id),"⚠️ Account Downgraded")
     addpre(int(user_id))
     await update.message.edit("Added Successfully To Upload Limit 2GB")
-    await bot.send_message(user_id, f"Hey {update.from_user.mention} \n\nYou Are Downgraded To Cease <b>Limit 2GB</b>. Check Your Plan Here /myplan \n\n<b>Contact Admin :</b> @MadflixOfficials")
+    await bot.send_message(user_id, f"Hey {update.from_user.mention} \n\nYou Are Downgraded To Cease <b>Limit 2GB</b>. Check Your Plan Here /myplan \n\n<b>Contact Admin :</b> @chihiro_assistant_bot")
 
 
 
@@ -123,7 +123,7 @@ async def cp2(bot,update):
     usertype(int(user_id),"⚠️ Account Downgraded")
     addpre(int(user_id))
     await update.message.edit("Added Successfully To Upload Limit 0GB")
-    await bot.send_message(user_id, f"Hey {update.from_user.mention} \n\nYou Are Downgraded To Cease <b>Limit 0GB</b>. Check Your Plan Here /myplan \n\n<b>Contact Admin :</b> @MadflixOfficials")
+    await bot.send_message(user_id, f"Hey {update.from_user.mention} \n\nYou Are Downgraded To Cease <b>Limit 0GB</b>. Check Your Plan Here /myplan \n\n<b>Contact Admin :</b> @chihiro_assistant_bot")
 
 
 
@@ -138,6 +138,6 @@ async def dft(bot,update):
     usertype(int(user_id),"🆓 Free")
     addpre(int(user_id))
     await update.message.edit("Daily Data Limit Has Been Reset Successfully.\n\nThis Account Has Default 2GB Remaining Capacity")
-    await bot.send_message(user_id, f"Hey {update.from_user.mention} \n\nYour Daily Data Limit Has Been Reset Successfully. Check Your Plan Here /myplan\n\n<b>Contact Admin :</b> @MadflixOfficials")
+    await bot.send_message(user_id, f"Hey {update.from_user.mention} \n\nYour Daily Data Limit Has Been Reset Successfully. Check Your Plan Here /myplan\n\n<b>Contact Admin :</b> @chihiro_assistant_bot")
 
 

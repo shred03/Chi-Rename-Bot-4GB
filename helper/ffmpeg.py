@@ -100,4 +100,4 @@ async def add_metadata(input_path, output_path, metadata, ms):
 # Don't Remove Credit 🥺
 # Telegram Channel @Madflix_Bots
 # Back-Up Channel @JishuBotz
-# Developer @JishuDeveloper & @MadflixOfficials
+# Developer @JishuDeveloper & @chihiro_assistant_bot
